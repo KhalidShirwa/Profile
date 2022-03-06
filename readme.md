@@ -10,5 +10,7 @@ I the work section there are 4 photos acting as projects since I haven't complet
 
 The largest photo is represting my "first project"
 
+When I resize the page or view the site on various screens and devices
 
+ I am presented with a responsive layout that adapts to my viewport
 
